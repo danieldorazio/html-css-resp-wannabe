@@ -44,4 +44,17 @@
         width: 100%;
         margin-bottom: 2rem;
     }
+
+    /* STEPS SECTION */
+    .steps .col {
+        width: 100%;
+    }
+
+    .card {
+        margin-bottom: 2rem;
+    }
+
+
+
+
 }
