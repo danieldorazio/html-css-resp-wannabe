@@ -1,0 +1,5 @@
+@media screen and (max-width:1160px) {  /*non ho ben capito questa cosa, con width 100% sta bene sia per dekstop sia per tablet */
+    .container{
+        width: 100%;
+    }
+}
